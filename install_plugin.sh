@@ -6,7 +6,7 @@
 REMOTE_URL="https://raw.githubusercontent.com/aashiqui/cpanel-primary-domain-changer/main/"
 
 # Set the local plugin directory
-PLUGIN_DIR="/usr/local/cpanel/base/frontend/jupitor/primary_domain_changer/"
+PLUGIN_DIR="/usr/local/cpanel/base/frontend/jupiter/primary_domain_changer/"
 
 # Create the plugin directory
 mkdir -p "$PLUGIN_DIR"
