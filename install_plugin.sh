@@ -13,7 +13,7 @@ mkdir -p "$PLUGIN_DIR"
 
 # Download the plugin files using curl with the '-L' flag to follow redirects
 curl -L -o "$PLUGIN_DIR/change_domain.php" "${REMOTE_URL}change_domain.php"
-curl -L -o "$PLUGIN_DIR/change_domain.php" "${REMOTE_URL}install.json"
+curl -L -o "$PLUGIN_DIR/install.json" "${REMOTE_URL}install.json"
 curl -L -o "$PLUGIN_DIR/primary_domain_changer.sh" "${REMOTE_URL}primary_domain_changer.sh"
 curl -L -o "$PLUGIN_DIR/index.live.php" "${REMOTE_URL}index.live.php"
 curl -L -o "$PLUGIN_DIR/register_plugin.sh" "${REMOTE_URL}register_plugin.sh"
