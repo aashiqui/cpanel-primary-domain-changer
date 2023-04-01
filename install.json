@@ -1,0 +1,11 @@
+{
+  "name": "primary_domain_changer",
+  "version": "1.0.0",
+  "description": "Easily change the primary domain of your cPanel account",
+  "author": "Zubair Shaikh",
+  "url": "https://github.com/aashiqui/cpanel-primary-domain-changer",
+  "theme": "jupiter",
+  "scripts": {
+    "install": "register_plugin.sh"
+  }
+}
