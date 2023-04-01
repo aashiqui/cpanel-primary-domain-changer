@@ -24,3 +24,5 @@ chmod +x "$PLUGIN_DIR/register_plugin.sh"
 
 # Register the plugin
 "$PLUGIN_DIR/register_plugin.sh"
+
+ /usr/local/cpanel/scripts/install_plugin /usr/local/cpanel/base/frontend/jupiter/primary_domain_changer --theme=jupiter
