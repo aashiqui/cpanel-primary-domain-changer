@@ -3,7 +3,7 @@
 # install_plugin.sh
 
 # Set the remote URL where the plugin files are hosted (use HTTPS)
-REMOTE_URL="https://example.com/cpanel_plugin/"
+REMOTE_URL="https://raw.githubusercontent.com/aashiqui/cpanel-primary-domain-changer/main/"
 
 # Set the local plugin directory
 PLUGIN_DIR="/usr/local/cpanel/base/frontend/paper_lantern/primary_domain_changer/"
